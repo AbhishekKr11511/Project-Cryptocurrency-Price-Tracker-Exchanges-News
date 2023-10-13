@@ -1,0 +1,17 @@
+
+.details{
+    padding: 0.5rem 0;
+}
+.crypto-image{
+    width:35px;
+}
+.box{
+    margin-top: 1rem;
+}
+.crypto-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    align-items: center;
+    max-height: 100px;
+}

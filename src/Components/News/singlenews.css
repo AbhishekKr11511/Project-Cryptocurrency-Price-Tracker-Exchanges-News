@@ -1,0 +1,21 @@
+.source{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.container{
+    height: 10rem;
+    transition: 0.5s;
+    padding: 0.5rem;
+}
+.source{
+    padding-top: 0.1rem;
+}
+.title{
+    padding-top: 1rem;
+}
+
+.hidden{
+    display: none;
+    transition: 0.5s;
+}

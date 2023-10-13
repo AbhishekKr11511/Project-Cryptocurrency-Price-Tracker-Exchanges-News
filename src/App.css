@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@1,6..96,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
+:root{
+  --text-primary:#000;
+  --bgPrimary:#fff;
+  --bg-grey : rgb(210,210,210);
+  --green: #9fc131;
+  --clr-yellow : #f5b403;
+  --clr-light-orange : #db9203;
+  --clr-orange : #b64926;
+  --clr-light-blue : #acf0f2;
+  --clr-blue : #204796;
+  --clr-indigo : #1b2b67;
+  --clr-dark-blue : #0d0d0d;
+  --font-money: 'Bodoni Moda', serif;
+  --font-comfort : 'Comfortaa', cursive;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a:hover{
+  color: var(--green) !important;
+}
+
+.navbar{
+  flex: 0.2;
+  background-color: rgb(0, 21, 41);
+}
+
+.routes{
+  padding: 0;
+}
+
+.crypto-card-container{
+  min-height: 65vh !important;
+}
+
+/* This is for Home */
+.home-heading-container{
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+
+
+
+.footer {
+  background-color: #001529;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  /* position: fixed; */
+  bottom: 0;
+  width: 100%;
+  max-height: 8vh;
+}
+.footer div{
+  gap: 4rem;
+}
+

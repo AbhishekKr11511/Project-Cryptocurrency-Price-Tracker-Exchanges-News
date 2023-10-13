@@ -1,0 +1,46 @@
+.cryptodetails-container{
+    border: 2rem solid var(--clr-blue);
+    /* padding: 1rem; */
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+.coin-heading-container{
+    text-align: center;
+    padding: 1rem;
+    font-size: 2.5rem;
+    font-weight:bolder;
+}
+
+.stats{
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+}
+.stats-container{
+    min-width: 30rem;
+}
+.coin-details-heading{
+    text-align: center;
+}
+.coin-link{
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+}
+.coin-value-statistics{
+    font-size: 2rem;
+    text-align: center;
+    padding: 0.5rem;
+}
+.coin-stats {
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    width:auto;
+}
+.value-numeric{
+    color: var(--clr-orange);
+}

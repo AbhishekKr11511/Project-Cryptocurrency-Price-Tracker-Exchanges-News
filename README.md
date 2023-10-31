@@ -43,11 +43,21 @@ Welcome to the ultimate crypto hub. This website is your one-stop destination fo
 
 <table>
   <tr>
-    <td><img src="/src/Assets/thumbs/7.png" alt="Image a"></td>
-    <td><img src="/src/Assets/thumbs/b.png" alt="Image c"></td>
+    <td><img src="/src/Assets/thumbs/b.png" alt="Image b"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/Assets/thumbs/7.png" alt="Image 7"></td>
   </tr>
 </table>
 ### Look at the history of any coin and with time period setting.
+
+<table>
+  <tr>
+    <td><img src="/src/Assets/thumbs/5.png" alt="Image 5"></td>
+    <td><img src="/src/Assets/thumbs/6.png" alt="Image 6"></td>
+  </tr>
+</table>
+### Get Latest news and exchanges on your each of your clicks
 
 ## Technologies Used
 <table>

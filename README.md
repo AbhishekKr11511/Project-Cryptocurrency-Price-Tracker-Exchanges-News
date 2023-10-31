@@ -1,6 +1,15 @@
 # Crypto Currency Tracker App
 
-![Project Image](/src/Assets/thumbs/1.png) ![Project Image](/src/Assets/thumbs/2.png)
+<table>
+  <tr>
+    <td><img src="/src/Assets/thumbs/1.png" alt="Image 1"></td>
+    <td><img src="/src/Assets/thumbs/2.png" alt="Image 2"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/Assets/thumbs/3.png" alt="Image 3"></td>
+    <td><img src="/src/Assets/thumbs/4.png" alt="Image 4"></td>
+  </tr>
+</table>
 
 
 ## Available Scripts

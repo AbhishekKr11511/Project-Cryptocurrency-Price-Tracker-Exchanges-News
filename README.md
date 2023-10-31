@@ -25,22 +25,26 @@ Welcome to the ultimate crypto hub. This website is your one-stop destination fo
   <li>Get the Latest data about the current exchanges going on.</li>
 </ul>
 
+
+### Each card gives brief information about the that coin, with color coding
 <table>
   <tr>
     <td><img src="/src/Assets/thumbs/a.png" alt="Image a"></td>
     <td><img src="/src/Assets/thumbs/c.png" alt="Image c"></td>
   </tr>
 </table>
-### Each card gives brief information about the that coin, with color coding
 
+
+### Get additional Info after clicking on the cards.
 <table>
   <tr>
     <td><img src="/src/Assets/thumbs/e.png" alt="Image e"></td>
     <td><img src="/src/Assets/thumbs/d.png" alt="Image d"></td>
   </tr>
 </table>
-### Get additional Info after clicking on the cards.
 
+
+### Look at the history of any coin and with time period setting.
 <table>
   <tr>
     <td><img src="/src/Assets/thumbs/b.png" alt="Image b"></td>
@@ -49,15 +53,15 @@ Welcome to the ultimate crypto hub. This website is your one-stop destination fo
     <td><img src="/src/Assets/thumbs/7.png" alt="Image 7"></td>
   </tr>
 </table>
-### Look at the history of any coin and with time period setting.
 
+
+### Get Latest news and exchanges on your each of your clicks
 <table>
   <tr>
     <td><img src="/src/Assets/thumbs/5.png" alt="Image 5"></td>
     <td><img src="/src/Assets/thumbs/6.jpg" alt="Image 6"></td>
   </tr>
 </table>
-### Get Latest news and exchanges on your each of your clicks
 
 ## Technologies Used
 <table>

@@ -73,3 +73,12 @@ Welcome to the ultimate crypto hub. This website is your one-stop destination fo
     <td><img src="/src/Assets/logos/rapid api.png" alt="Image a"></td>
   </tr>
 </table>
+
+
+### Additional Dependencies Used
+<ul>
+  <li>Axios - For Fetching data</li>
+  <li>Chart.js - For Chart depiction</li>
+  <li>Dayjs - For fetching the Date and Time</li>
+  <li>Millify - For formatting large numbers in readable format</li>
+</ul>

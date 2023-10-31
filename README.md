@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Crypto Currency Tracker App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

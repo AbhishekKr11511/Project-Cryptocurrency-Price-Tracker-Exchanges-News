@@ -60,7 +60,7 @@ const News = ({count}) => {
     <>
       <Row gutter={[0,0]}>
         {newsArticle?.map((item, index)=>{
-          return <Col span={6}>
+          return <Col span={4}>
               <SingleNews name={item.name} 
               date={item.datePublished}  
               link={item.url} 

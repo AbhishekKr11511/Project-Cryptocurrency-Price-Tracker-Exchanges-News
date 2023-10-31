@@ -51,7 +51,7 @@ const Home = () => {
         <div className="home-title" style={{fontSize: '1.5rem'}}>Latest Crypto News</div>
           <div className="show-more" style={{fontSize : '1rem'}}><Link to='/news'>Show More</Link></div>
         </div>
-        <News count={5}/>
+        <News count={6}/>
       </div>
     )
 }

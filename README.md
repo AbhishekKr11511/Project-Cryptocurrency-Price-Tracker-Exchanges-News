@@ -1,6 +1,6 @@
 # Crypto Currency Tracker App
 
-![Project Image](/src/Assets/thumbs/1.png)
+![Project Image](/src/Assets/thumbs/1.png) ![Project Image](/src/Assets/thumbs/2.png)
 
 
 ## Available Scripts

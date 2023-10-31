@@ -54,7 +54,7 @@ Welcome to the ultimate crypto hub. This website is your one-stop destination fo
 <table>
   <tr>
     <td><img src="/src/Assets/thumbs/5.png" alt="Image 5"></td>
-    <td><img src="/src/Assets/thumbs/6.png" alt="Image 6"></td>
+    <td><img src="/src/Assets/thumbs/6.jpg" alt="Image 6"></td>
   </tr>
 </table>
 ### Get Latest news and exchanges on your each of your clicks

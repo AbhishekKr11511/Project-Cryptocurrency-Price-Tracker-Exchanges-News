@@ -40,12 +40,12 @@ const Cryptocurrencies = ({limit}) => {
   return (
     <div  className="cryptocurrencies-container" style={{padding: '1rem'}}>
 
-      {/* <Row className="search-crypto"  style={{marginBottom: 10 }}>
+      <Row className="search-crypto"  style={{marginBottom: 10 }}>
         <Input placeholder="Search Currency" onChange={(e)=>{
           setSearchTerm(e.target.value)
           }}
           style={{width : 500}}></Input>
-      </Row> */}
+      </Row>
       
       <Row gutter={[10,10]} >
 

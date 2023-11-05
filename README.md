@@ -26,7 +26,7 @@ Welcome to the ultimate crypto hub. This website is your one-stop destination fo
 </ul>
 
 
-### Each card gives brief information about the that coin, with color coding
+### Each card gives brief information about that coin, with color coding
 <table>
   <tr>
     <td><img src="/src/Assets/thumbs/a.png" alt="Image a"></td>
